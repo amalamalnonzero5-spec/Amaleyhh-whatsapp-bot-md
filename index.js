@@ -44,23 +44,3 @@ async function startBot() {
 }
 
 startBot();
-{
-  "name": "whatsapp-bot",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.8"
-  }
-}
-module.exports = {
-    botName: "amalllyhh",
-    owner: "917907705677",
-    prefix: "."
-};whatsapp-bot/
- ├── index.js
- ├── package.json
- ├── config.js
- ├── session/   
